@@ -1,0 +1,15 @@
+{
+    "version": "1.1.0",
+    "description": "Standalone teleprompter desktop app for recording scripts (Python, tkinter)",
+    "homepage": "https://github.com/skquievreux/teleprompter",
+    "license": "MIT",
+    "url": "https://github.com/skquievreux/teleprompter/releases/download/v1.1.0/teleprompter.exe",
+    "hash": "cf9af25bde6102d1a5cffe973da7cea95facd8d6e980cfe73294f9fd77bb4512",
+    "bin": "teleprompter.exe",
+    "checkver": {
+        "github": "https://github.com/skquievreux/teleprompter"
+    },
+    "autoupdate": {
+        "url": "https://github.com/skquievreux/teleprompter/releases/download/v$version/teleprompter.exe"
+    }
+}
