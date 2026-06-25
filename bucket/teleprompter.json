@@ -6,6 +6,9 @@
     "url": "https://github.com/skquievreux/teleprompter/releases/download/v1.4.0/teleprompter.exe",
     "hash": "f0cc29eba925a0f364877e133f60f76ab6e3d817f42ded055aff101a8c248f1d",
     "bin": "teleprompter.exe",
+    "shortcuts": [
+        ["teleprompter.exe", "Teleprompter"]
+    ],
     "checkver": {
         "github": "https://github.com/skquievreux/teleprompter"
     },
